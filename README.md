@@ -44,6 +44,7 @@ Side information: To use the application in a special environment use ```lorem i
 ## Collaborazioni
 <a name= "collab"></a>
 ***
+Stefano Barrella si è unito al team.
 Give instructions on how to collaborate with your project.
 > Maybe you want to write a quote in this part. 
 > It should go over several rows?
